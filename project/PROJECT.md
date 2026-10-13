@@ -1,10 +1,10 @@
 # Fill out your Project Information
 
-Student1: \<name-1>
+Student1: Pia Truebenbach
 
-Student2: \<name-2>
+Student2: Hanna Lohmann
 
-Project Github url: \<github-url> 
+Project Github url: https://github.com/lohtrue/rna-seq-analysis
 
 
 # Next steps
